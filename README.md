@@ -1,6 +1,6 @@
 ## Screenshots
 
-<img src="./images/screenshot1.jpeg" width="800">
+<img src="WhatsApp Image 2026-02-27 at 6.41.45 PM.jpeg" width="800">
 
 <img src="./images/screenshot2.jpeg" width="800">
 
