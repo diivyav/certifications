@@ -1,5 +1,5 @@
 certificates
-![Cert 1](certificates/WhatsApp%20Image%202026-02-27%20at%206.41.45%20PM.jpeg)
+![Certicate 1](certificates/WhatsApp%20Image%202026-02-27%20at%206.41.45%20PM.jpeg)
 ![Cert 2](certificates/WhatsApp%20Image%202026-02-27%20at%206.42.23%20PM.jpeg)
 ![Cert 3](certificates/WhatsApp%20Image%202026-02-27%20at%206.42.38%20PM.jpeg)
 ![Cert 4](certificates/WhatsApp%20Image%202026-02-27%20at%206.43.32%20PM.jpeg)
