@@ -1,4 +1,4 @@
-certificates
+certificate
 ![Certicate 1](certificates/WhatsApp%20Image%202026-02-27%20at%206.41.45%20PM.jpeg)
 ![Cert 2](certificates/WhatsApp%20Image%202026-02-27%20at%206.42.23%20PM.jpeg)
 ![Cert 3](certificates/WhatsApp%20Image%202026-02-27%20at%206.42.38%20PM.jpeg)
@@ -20,21 +20,4 @@ certificates
 ![Cert 19](certificates/WhatsApp%20Image%202026-08-13%20at%208.46.44%20PM.jpeg)
 
 
-![Cert 2](certificates/WhatsApp Image 2026-02-27 at 6.42.23 PM.jpeg)
-![Cert 3](certificates/WhatsApp Image 2026-02-27 at 6.42.38 PM.jpeg)
-![Cert 4](certificates/WhatsApp Image 2026-02-27 at 6.43.32 PM.jpeg)
-![Cert 5](certificates/WhatsApp Image 2026-02-27 at 6.43.41 PM.jpeg)
-![Cert 6](certificates/WhatsApp Image 2026-02-27 at 6.43.51 PM.jpeg)
-![Cert 7](certificates/WhatsApp Image 2026-02-27 at 6.44.01 PM.jpeg)
-![Cert 8](certificates/WhatsApp Image 2026-02-27 at 6.44.26 PM.jpeg)
-![Cert 9](certificates/WhatsApp Image 2026-02-27 at 6.44.47 PM.jpeg)
-![Cert 10](certificates/WhatsApp Image 2026-02-27 at 6.45.06 PM.jpeg)
-![Cert 11](certificates/WhatsApp Image 2026-02-27 at 6.46.18 PM.jpeg)
-![Cert 12](certificates/WhatsApp Image 2026-02-27 at 6.46.40 PM.jpeg)
-![Cert 13](certificates/WhatsApp Image 2026-02-27 at 6.50.58 PM.jpeg)
-![Cert 14](certificates/WhatsApp Image 2026-02-27 at 6.51.25 PM.jpeg)
-![Cert 15](certificates/WhatsApp Image 2026-02-27 at 6.51.52 PM.jpeg)
-![Cert 16](certificates/WhatsApp Image 2026-02-27 at 6.54.49 PM.jpeg)
-![Cert 17](certificates/WhatsApp Image 2026-08-13 at 8.46.41 PM.jpeg)
-![Cert 18](certificates/WhatsApp Image 2026-08-13 at 8.46.43 PM.jpeg)
-![Cert 19](certificates/WhatsApp Image 2026-08-13 at 8.46.44 PM.jpeg)
+
