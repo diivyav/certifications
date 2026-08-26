@@ -1,26 +1,28 @@
 certificates 
-![Certificate](certificates/WhatsApp%20Image%202026-02-27%20at%206.41.45%20PM.jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-02-27%20at%206.42.23%20PM.jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-02-27%20at%206.42.38%20PM.jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-02-27%20at%206.43.32%20PM.jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-02-27%20at%206.43.41%20PM.jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-02-27%20at%206.43.51%20PM.jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-02-27%20at%206.44.01%20PM.jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-02-27%20at%206.44.26%20PM.jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-02-27%20at%206.44.47%20PM.jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-02-27%20at%206.45.06%20PM.jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-02-27%20at%206.46.18%20PM.jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-02-27%20at%206.46.40%20PM.jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-02-27%20at%206.50.58%20PM.jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-02-27%20at%206.51.25%20PM.jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-02-27%20at%206.51.52%20PM.jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-02-27%20at%206.54.49%20PM.jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-08-13%20at%208.46.41%20PM.jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-08-13%20at%208.46.42%20PM%20(2).jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-08-13%20at%208.46.43%20PM%20(1).jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-08-13%20at%208.46.43%20PM%20(2).jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-08-13%20at%208.46.43%20PM.jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-08-13%20at%208.46.44%20PM%20(1).jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-08-13%20at%208.46.44%20PM%20(2).jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-08-13%20at%208.46.44%20PM%20(3).jpeg)
-![Certificate](certificates/WhatsApp%20Image%202026-08-13%20at%208.46.44%20PM.jpeg)
+
+
+<img src="certificates/WhatsApp Image 2026-02-27 at 6.41.45 PM.jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-02-27 at 6.42.23 PM.jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-02-27 at 6.42.38 PM.jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-02-27 at 6.43.32 PM.jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-02-27 at 6.43.41 PM.jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-02-27 at 6.43.51 PM.jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-02-27 at 6.44.01 PM.jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-02-27 at 6.44.26 PM.jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-02-27 at 6.44.47 PM.jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-02-27 at 6.45.06 PM.jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-02-27 at 6.46.18 PM.jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-02-27 at 6.46.40 PM.jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-02-27 at 6.50.58 PM.jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-02-27 at 6.51.25 PM.jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-02-27 at 6.51.52 PM.jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-02-27 at 6.54.49 PM.jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-08-13 at 8.46.41 PM.jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-08-13 at 8.46.42 PM (2).jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-08-13 at 8.46.43 PM (1).jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-08-13 at 8.46.43 PM (2).jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-08-13 at 8.46.43 PM.jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-08-13 at 8.46.44 PM (1).jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-08-13 at 8.46.44 PM (2).jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-08-13 at 8.46.44 PM (3).jpeg" width="400">
+<img src="certificates/WhatsApp Image 2026-08-13 at 8.46.44 PM.jpeg" width="400">
